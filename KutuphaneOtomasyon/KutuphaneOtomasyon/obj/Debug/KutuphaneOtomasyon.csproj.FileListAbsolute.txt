@@ -1,0 +1,12 @@
+C:\Users\Hamza Akılotu\OneDrive\Desktop\Ders-Yazılım\C#\C# Codes\KutuphaneOtomasyon\KutuphaneOtomasyon\bin\Debug\KutuphaneOtomasyon.exe.config
+C:\Users\Hamza Akılotu\OneDrive\Desktop\Ders-Yazılım\C#\C# Codes\KutuphaneOtomasyon\KutuphaneOtomasyon\bin\Debug\KutuphaneOtomasyon.exe
+C:\Users\Hamza Akılotu\OneDrive\Desktop\Ders-Yazılım\C#\C# Codes\KutuphaneOtomasyon\KutuphaneOtomasyon\bin\Debug\KutuphaneOtomasyon.pdb
+C:\Users\Hamza Akılotu\OneDrive\Desktop\Ders-Yazılım\C#\C# Codes\KutuphaneOtomasyon\KutuphaneOtomasyon\obj\Debug\KutuphaneOtomasyon.csproj.AssemblyReference.cache
+C:\Users\Hamza Akılotu\OneDrive\Desktop\Ders-Yazılım\C#\C# Codes\KutuphaneOtomasyon\KutuphaneOtomasyon\obj\Debug\KutuphaneOtomasyon.Properties.Resources.resources
+C:\Users\Hamza Akılotu\OneDrive\Desktop\Ders-Yazılım\C#\C# Codes\KutuphaneOtomasyon\KutuphaneOtomasyon\obj\Debug\KutuphaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\Hamza Akılotu\OneDrive\Desktop\Ders-Yazılım\C#\C# Codes\KutuphaneOtomasyon\KutuphaneOtomasyon\obj\Debug\KutuphaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Hamza Akılotu\OneDrive\Desktop\Ders-Yazılım\C#\C# Codes\KutuphaneOtomasyon\KutuphaneOtomasyon\obj\Debug\KutuphaneOtomasyon.exe
+C:\Users\Hamza Akılotu\OneDrive\Desktop\Ders-Yazılım\C#\C# Codes\KutuphaneOtomasyon\KutuphaneOtomasyon\obj\Debug\KutuphaneOtomasyon.pdb
+C:\Users\Hamza Akılotu\OneDrive\Desktop\Ders-Yazılım\C#\C# Codes\KutuphaneOtomasyon\KutuphaneOtomasyon\obj\Debug\KutuphaneOtomasyon.LoginForm.resources
+C:\Users\Hamza Akılotu\OneDrive\Desktop\Ders-Yazılım\C#\C# Codes\KutuphaneOtomasyon\KutuphaneOtomasyon\obj\Debug\KutuphaneOtomasyon.AdminForm.resources
+C:\Users\Hamza Akılotu\OneDrive\Desktop\Ders-Yazılım\C#\C# Codes\KutuphaneOtomasyon\KutuphaneOtomasyon\obj\Debug\KutuphaneOtomasyon.MemberForm.resources
