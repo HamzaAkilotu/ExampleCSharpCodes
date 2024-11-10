@@ -1,0 +1,10 @@
+C:\Users\Hamza Akılotu\OneDrive\Desktop\Ders-Yazılım\C#\C# Codes\ArabaYarisiUygulamasi\ArabaYarisiUygulamasi\bin\Debug\ArabaYarisiUygulamasi.exe.config
+C:\Users\Hamza Akılotu\OneDrive\Desktop\Ders-Yazılım\C#\C# Codes\ArabaYarisiUygulamasi\ArabaYarisiUygulamasi\bin\Debug\ArabaYarisiUygulamasi.exe
+C:\Users\Hamza Akılotu\OneDrive\Desktop\Ders-Yazılım\C#\C# Codes\ArabaYarisiUygulamasi\ArabaYarisiUygulamasi\bin\Debug\ArabaYarisiUygulamasi.pdb
+C:\Users\Hamza Akılotu\OneDrive\Desktop\Ders-Yazılım\C#\C# Codes\ArabaYarisiUygulamasi\ArabaYarisiUygulamasi\obj\Debug\ArabaYarisiUygulamasi.csproj.AssemblyReference.cache
+C:\Users\Hamza Akılotu\OneDrive\Desktop\Ders-Yazılım\C#\C# Codes\ArabaYarisiUygulamasi\ArabaYarisiUygulamasi\obj\Debug\ArabaYarisiUygulamasi.Form1.resources
+C:\Users\Hamza Akılotu\OneDrive\Desktop\Ders-Yazılım\C#\C# Codes\ArabaYarisiUygulamasi\ArabaYarisiUygulamasi\obj\Debug\ArabaYarisiUygulamasi.Properties.Resources.resources
+C:\Users\Hamza Akılotu\OneDrive\Desktop\Ders-Yazılım\C#\C# Codes\ArabaYarisiUygulamasi\ArabaYarisiUygulamasi\obj\Debug\ArabaYarisiUygulamasi.csproj.GenerateResource.cache
+C:\Users\Hamza Akılotu\OneDrive\Desktop\Ders-Yazılım\C#\C# Codes\ArabaYarisiUygulamasi\ArabaYarisiUygulamasi\obj\Debug\ArabaYarisiUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Hamza Akılotu\OneDrive\Desktop\Ders-Yazılım\C#\C# Codes\ArabaYarisiUygulamasi\ArabaYarisiUygulamasi\obj\Debug\ArabaYarisiUygulamasi.exe
+C:\Users\Hamza Akılotu\OneDrive\Desktop\Ders-Yazılım\C#\C# Codes\ArabaYarisiUygulamasi\ArabaYarisiUygulamasi\obj\Debug\ArabaYarisiUygulamasi.pdb
